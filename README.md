@@ -28,8 +28,7 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/yourusername/calculator.git
-   cd calculator
+   git clone https://github.com/karina-81818/console_calculator.git
    ```
 
 2. **Запустите программу:**
