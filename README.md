@@ -33,7 +33,7 @@
 
 2. **Запустите программу:**
    ```bash
-   go run main.go
+   go run calculator.go
    ```
 
 ## 💻 Примеры работы
