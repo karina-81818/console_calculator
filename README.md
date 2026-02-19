@@ -82,7 +82,7 @@ Input right operand:
 
 ```
 calculator/
-├── main.go          # Основной код программы
+├── calculator.go    # Основной код программы
 └── README.md        # Документация
 ```
 
